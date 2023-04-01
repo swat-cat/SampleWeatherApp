@@ -198,7 +198,7 @@ class Home extends StatelessWidget {
                 shape: BoxShape.circle,
                 border: Border.all(color: Colors.green),
               ),
-              child: const Icon(Icons.person, size: 24,),
+              child: const Icon(Icons.ac_unit, size: 24,),
             ),
             Expanded(child: Padding(
               padding: const EdgeInsets.all(8),
